@@ -1,0 +1,17 @@
+{
+    "name": "chartisan/php",
+    "description": "Laravel Charts v7 PHP backend",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chartisan\\PHP\\": "src/"
+        }
+    }
+}
